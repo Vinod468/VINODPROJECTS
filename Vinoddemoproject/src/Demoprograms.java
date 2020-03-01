@@ -6,6 +6,7 @@ static int i =10;
 		// TODO Auto-generated method stub
        int k =20;
        System.out.println(i);
+       System.out.println(k);
 	}
 
 }
